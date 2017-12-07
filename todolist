@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+}
+header {
+	border: 2px solid black;
+	height: 100px;
+}
+#container {
+	border: 2px solid black;
+	position: relative;
+	height: auto;
+}
+#item {
+	border: 2px solid black;
+	height: 30px;
+
+}
+#remove-btn {
+	position: absolute;
+	right: 5px;
+	top: 10px;
+
+}
+form {
+	border: 2px solid black;
+	height: 200px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
